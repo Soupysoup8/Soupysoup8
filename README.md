@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Soupysoup8/Soupysoup8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/904a92ea-87e3-4f12-b2a6-a567c9d1b473)
+![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f0f5ada8-5ef6-406a-bc92-e0f1705f4308)
