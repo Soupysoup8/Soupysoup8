@@ -1,19 +1,15 @@
 
-<!--
-**Soupysoup8/Soupysoup8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## ⋆ ｡ﾟ⋆｡☁︎☾⋆ ʟᴏᴀᴅɪɴɢ ʙɪᴏ %15 ⋆ ☾ ☁｡⋆｡ﾟ ⋆
+# ⋆ ｡ﾟ⋆｡☁︎☾⋆ ʟᴏᴀᴅɪɴɢ ʙɪᴏ %15 ⋆ ☾ ☁｡⋆｡ﾟ ⋆
 
 ![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f0f5ada8-5ef6-406a-bc92-e0f1705f4308)
-![moon](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/94a8a33d-5c36-44a1-a891-e8ddef78d9a9)
+
+<div>
+    <h1 align="center">Hi I'm SoupySoup</h1>
+    <img src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/94a8a33d-5c36-44a1-a891-e8ddef78d9a9" align="left">
+    <p align="center">
+    </br></br>Currently studying at <a href src="https://www.linkedin.com/school/escuela-tecnica-n32-de-14-general-jose-de-san-martin/?originalSubdomain=ar">General José de San Martín</a>
+    </br>Newbie at being a GameDev and a WebDev
+    </br>I can speak in Spanish and English, and I am now learning Japanese
+    </p>
+  
+</div>
