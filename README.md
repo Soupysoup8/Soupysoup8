@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f0f5ada8-5ef6-406a-bc92-e0f1705f4308)
-![moon](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/b1712674-788b-4c11-bdf6-4f62ad04aed7)
+![moon](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/24d7b511-d64b-4506-89e4-f8caca5f7a09)
