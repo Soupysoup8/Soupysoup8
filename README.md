@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ## ⋆ ｡ﾟ⋆｡☁︎☾⋆ ʟᴏᴀᴅɪɴɢ ʙɪᴏ %15 ⋆ ☾ ☁｡⋆｡ﾟ ⋆
 
 ![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f0f5ada8-5ef6-406a-bc92-e0f1705f4308)
-![moon](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ca3b7083-d362-4552-8541-4b3701e16109)
+![moon](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/94a8a33d-5c36-44a1-a891-e8ddef78d9a9)
