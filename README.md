@@ -40,8 +40,8 @@
         <img align="left" width="40" height="40" style="padding:125px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
     </p>
 </div>
-
+<!--
 https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
 https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blackhttps://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
- 
+-->
