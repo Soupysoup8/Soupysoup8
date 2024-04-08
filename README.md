@@ -11,8 +11,8 @@
         Pronouns: she / her
         </br>Currently studying at <a href src="https://www.linkedin.com/school/escuela-tecnica-n32-de-14-general-jose-de-san-martin/?originalSubdomain=ar">General José de San Martín</a>
         </br>Newbie at being a GameDev and a WebDev.
-        </br>I can speak in Spanish and English, and I am now learning Japanese.
-        </br>I hate basic modern design.
+        </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/1f1b9d52-618b-4808-b0d1-1aca35323bda"> I can speak in Spanish and English, and I am now learning Japanese.
+        </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/714b54d7-2eec-4542-9e50-54c76070b9ec"> I hate basic modern design.
         </br></br></br></br>
     </p>
 </div>
