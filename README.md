@@ -13,7 +13,7 @@
         </br>Newbie at being a GameDev and a WebDev.
         </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ec2838b8-bec3-46f0-9d35-2c931bc9c8f3"> I can speak in Spanish and English, and I am now learning Japanese.
         </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/714b54d7-2eec-4542-9e50-54c76070b9ec"> I hate basic modern design.
-        </br></br></br></br>
+        </br></br></br></br></br>
     </p>
 </div>
 
