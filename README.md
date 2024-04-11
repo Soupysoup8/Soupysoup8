@@ -18,7 +18,7 @@
 </div>
 
 <div>
-    <h2>Languages that I use:</h2>
+    <h2><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/a93c3624-ae68-4041-87dc-9d49b9080f34">  Languages that I use:</h2>
     <p>
         <img align="left" style="padding-left:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@
     </p>
     <p>
         </br></br>
-       <h2> <img width="45px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f2e488fa-4784-43f8-8e74-7241d2048b86"> Apps / Websites that I work with:</h2>
+       <h2> <img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/724abace-5e78-4cdc-9049-3770ae6794f7">  Apps / Websites that I work with:</h2>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -43,3 +43,4 @@
         </br></br>
     </p>
 </div>
+
