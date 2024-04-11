@@ -2,21 +2,20 @@
 ![github](https://github.com/Soupysoup8/Soupysoup8/assets/106486537/f0f5ada8-5ef6-406a-bc92-e0f1705f4308)
 
 <div>
-    <h1 align="center">Hi! I'm SoupySoup</h1>
-    <h3 align="center"> ⋆ ｡ﾟ⋆｡☁︎☾⋆ ʟᴏᴀᴅɪɴɢ ʙɪᴏ %55 ⋆ ☾ ☁｡⋆｡ﾟ ⋆</h3>
+    <h1 align="center"><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ea5951da-0a1c-4e8d-afc6-c488f8c090b7"> Hi! I'm SoupySoup <img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ea5951da-0a1c-4e8d-afc6-c488f8c090b7"> </h1>
+    <h3 align="center"> ⋆ ｡ﾟ⋆｡☁︎☾⋆ ʟᴏᴀᴅɪɴɢ ʙɪᴏ %85 ⋆ ☾ ☁｡⋆｡ﾟ ⋆</h3>
     <img src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/94a8a33d-5c36-44a1-a891-e8ddef78d9a9" align="left">
     </br></br>
     <h3 align="center"> Some Things about Me</h3>
     <p align="center">
-        Pronouns: she / her
-        </br>Currently studying at <a href src="https://www.linkedin.com/school/escuela-tecnica-n32-de-14-general-jose-de-san-martin/?originalSubdomain=ar">General José de San Martín</a>
-        </br>Newbie at being a GameDev and a WebDev.
+        <img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/a9df89d9-054c-4b30-9f9d-8cf3272a8ac0">    Pronouns: she / her
+        </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/8d641e89-8621-41a4-988f-f5ed088410c0">  Currently studying at <a href src="https://www.linkedin.com/school/escuela-tecnica-n32-de-14-general-jose-de-san-martin/?originalSubdomain=ar">General José de San Martín</a>
+        </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/aea3d862-d9e6-4a1a-accb-ce5b51067672">  Newbie at being a GameDev and a WebDev.
         </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/ec2838b8-bec3-46f0-9d35-2c931bc9c8f3"> I can speak in Spanish and English, and I am now learning Japanese.
         </br><img height="20px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/714b54d7-2eec-4542-9e50-54c76070b9ec"> I hate basic modern design.
         </br></br></br></br></br>
     </p>
 </div>
-
 <div>
     <h2><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/a93c3624-ae68-4041-87dc-9d49b9080f34">  Languages that I use:</h2>
     <p>
