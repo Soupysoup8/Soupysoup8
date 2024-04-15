@@ -43,3 +43,7 @@
     </p>
 </div>
 
+<h1 align="center">Github Stats</h1>
+
+![Soup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soupysoup8&show_icons=true&theme=jolly)
+![Soup's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soupysoup8&&theme=jolly)
