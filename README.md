@@ -17,7 +17,7 @@
     </p>
 </div>
 <div>
-    <h2><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/a93c3624-ae68-4041-87dc-9d49b9080f34">  Languages that I use:</h2>
+    <h2><img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/a93c3624-ae68-4041-87dc-9d49b9080f34">  Languages / Frameworks that I use:</h2>
     <p>
         <img align="left" style="padding-left:10px;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,6 +25,7 @@
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
         <img align="left" style="padding-left:10px; padding-up:10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     </p>
     <p>
@@ -32,6 +33,7 @@
        <h2> <img width="40px" src="https://github.com/Soupysoup8/Soupysoup8/assets/106486537/724abace-5e78-4cdc-9049-3770ae6794f7">  Apps / Websites that I work with:</h2>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+        <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
         <img align="left" style="padding-left:10px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blackhttps://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
